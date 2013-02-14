@@ -1,7 +1,7 @@
 ledger_binaries_windows
 =======================
 
-Ledgre 2.6.1 binaries for windows systems
+Ledger 2.6.1 binaries for windows systems
 
 As it is really time consuming to compile ledger under windows (you need to download cygwin, etc.), 
 I decided to make ledger windows binaries available here.
