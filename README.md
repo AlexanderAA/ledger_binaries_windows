@@ -10,3 +10,4 @@ Note: I did not verify the 3.x.x binaries below, it is highly recommended to bui
 - Ledger 3.1.1 binaries for windows systems - submitted by [orlandow](https://github.com/orlandow)
 - Ledger 3.1.2 binaries for windows systems - submitted by [fraga](https://github.com/fraga)
 - Ledger 3.1.3 binaries for windows systems - submitted by [FullofQuarks](https://github.com/FullofQuarks)
+- Ledger 3.2.0 binaries for windows systems - submitted by [FullofQuarks](https://github.com/FullofQuarks)
