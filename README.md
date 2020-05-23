@@ -3,7 +3,7 @@ Ledger binaries for Windows systems
 
 Note: I did not verify the 3.x.x binaries below, it is highly recommended to build your own binaries directly from ledger sources available from https://www.ledger-cli.org
 
-Newer versions and chocolatey package maintained by [FullofQuarks](https://github.com/FullofQuarks)):
+Newer versions and chocolatey package maintained by [FullofQuarks](https://github.com/FullofQuarks):
 - https://github.com/FullofQuarks/Windows-Ledger-Binaries
 - https://chocolatey.org/packages/ledger
 
