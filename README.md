@@ -7,7 +7,7 @@ Newer versions and chocolatey package maintained by [FullofQuarks](https://githu
 - https://github.com/FullofQuarks/Windows-Ledger-Binaries
 - https://chocolatey.org/packages/ledger
 
-Some instructions for windows builds can be found in [this repository](https://github.com/maxwell-k/ledger-windows-build).
+Some instructions for windows builds can be found in [here](https://github.com/maxwell-k/ledger-windows-build).
 
 In this repository:
 - Ledger 2.6.1 binaries for windows systems - compiled by me
